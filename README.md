@@ -8,7 +8,7 @@
 - Proyecto open-source. Aumentando la representación de mujeres en áreas STEM.
 - Sitio web: https://beautifulpatterns.org/
 
-### HTML <img width="50" alt="image" src="https://user-images.githubusercontent.com/89166148/170892323-bee49940-4794-49f5-a05f-fb225fc6410d.png">
+### HTML     <img width="40" alt="image" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png">
 - [Hola mundo](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/holaMundo.html)
 - [Dibujando formas y moviéndolas](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/formas.html)
 - [Dibujando formas y moviéndolas 2](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/formas2.html)
