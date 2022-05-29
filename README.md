@@ -11,6 +11,8 @@
 
 ### HTML     
 - [Hola mundo](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/holaMundo.html)
+
+### HTML y CSS
 - [Dibujando formas y moviéndolas](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/formas.html)
 - [Dibujando formas y moviéndolas 2](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/formas2.html)
 - [Desafio 1. Replicando la figura](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/HTML/desafio1)
