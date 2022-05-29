@@ -1,4 +1,4 @@
-# Course_BeatifulPatterns
+# Course_BeautifulPatterns
 
 ### Patrones hermosos
 <p align="center">
@@ -7,3 +7,9 @@
 
 - Proyecto open-source. Aumentando la representación de mujeres en áreas STEM.
 - Sitio web: https://beautifulpatterns.org/
+
+
+### HTML     
+- [Hola mundo](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/holaMundo.html)
+- [Dibujando formas y moviéndolas](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/formas.html)
+- [Dibujando formas y moviéndolas 2](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/formas2.html)
