@@ -20,3 +20,4 @@
 
 ### Javascript
 - [Variables](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/variables.js)
+- [Listas](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/listas.js)
