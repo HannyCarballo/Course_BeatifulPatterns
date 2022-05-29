@@ -17,3 +17,6 @@
 - [Dibujando formas y moviéndolas 2](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/HTML/formas2.html)
 - [Desafio 1. Replicando la figura](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/HTML/desafio1)
 - [Desafio 2. Replicando la figura](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/HTML/desafio2)
+
+### Javascript
+- [Variables](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/variables.js)
