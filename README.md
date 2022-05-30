@@ -37,3 +37,7 @@
 - [Rectangulo en dos orientaciones](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/desafios/dos.js)
 - [Triangulo](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/desafios/tres.js)
 - [Desafio. Replicando la figura](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/funciones%20parte%202)
+- [Bucle tipo while que crea 100 circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles/uno.js)
+- [Bucle tipo for que crea 100 circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles/dos.js)
+- [Bucle tipo while que crea 1000 circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles/tres.js)
+- [Bucle tipo for que crea 1000 circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles/cuatro.js)
