@@ -46,3 +46,4 @@
 - [Cambiando los colores dentro de la lista](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles%20parte%202/dos.js)
 - [Cambiando tamaño de los circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles%20parte%202/tres.js)
 - [Creación de pinturas con js](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/painting_01)
+- [Animación y geometría computacional](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/animacion%20y%20geometria%20computacional)
