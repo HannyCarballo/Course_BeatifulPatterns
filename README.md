@@ -36,4 +36,4 @@
 - [Cuadrado](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/desafios/uno.js)
 - [Rectangulo en dos orientaciones](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/desafios/dos.js)
 - [Triangulo](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/desafios/tres.js)
-- [Desafio. Replicar la figura](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/funciones%20parte%202)
+- [Desafio. Replicando la figura](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/funciones%20parte%202)
