@@ -1,0 +1,25 @@
+<!-- El círculo sólido con id “ball” es nuestro objeto Círculo -->
+<div id="ball" style="
+  z-index:5;
+  position:absolute;
+  left:0px;
+  top:20px;
+  width:100px;
+  height:100px;
+  border-radius:50%;
+  background:rgb(240, 9, 159)">
+</div>
+
+<script>
+
+var velocity = 20;
+var position = 0;
+// Toma el elemento “ball”
+var ball = document.getElementById('ball');
+
+// move ball
+position = position + velocity;
+// Define la posición de “ball” 
+ball.style.left = position + 'px';
+
+</script>

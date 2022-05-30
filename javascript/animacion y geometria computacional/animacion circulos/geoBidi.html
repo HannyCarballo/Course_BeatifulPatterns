@@ -1,0 +1,56 @@
+//semana 6. La geometría bidimensional
+
+<div id="ball" style="
+  z-index:5;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:50px;
+  border-radius:50%;
+  background:black"></div>
+
+<script>
+
+var width = 50;
+var height = 50;
+var velocityX = 50;
+var velocityY = 80;
+var positionX = 0;
+var positionY = 0;
+var ball = document.getElementById('ball');
+
+// ESCRIBE TU CODIGO AQUI
+setInterval(function(){
+if(positionX<0 || positionX>600){
+    var r = Math.floor(255*(Math.random()));
+    var g = Math.floor(255*(Math.random()));
+    var b = Math.floor(255*(Math.random()));        
+    var color = 'rgb(' + r + ', ' + g + ', ' + b + ')';
+    ball.style.background = color; 
+    width=width+3;
+    height=height+3;
+    ball.style.width= width+'px';
+    ball.style.height=height+'px';
+
+    velocityX=-1*velocityX;
+}
+if(positionY<0 || positionY>600){
+    var r = Math.floor(255*(Math.random()));
+    var g = Math.floor(255*(Math.random()));
+    var b = Math.floor(255*(Math.random()));        
+    var color = 'rgb(' + r + ', ' + g + ', ' + b + ')';
+    ball.style.background = color; 
+    width=width+3;
+    height=height+3;
+    ball.style.width= width+'px';
+    ball.style.height=height+'px';
+    velocityY=-1*velocityY;
+}
+positionX = positionX + velocityX;
+positionY = positionY + velocityY;
+ball.style.left = positionX + 'px';
+ball.style.top = positionY + 'px';}
+,200);
+
+</script>
