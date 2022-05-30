@@ -41,3 +41,7 @@
 - [Bucle tipo for que crea 100 circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles/dos.js)
 - [Bucle tipo while que crea 1000 circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles/tres.js)
 - [Bucle tipo for que crea 1000 circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles/cuatro.js)
+- [Añadir o quitar variables en una lista](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles%20parte%202/lista.js)
+- [Creando 20 circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles%20parte%202/uno.js)
+- [Cambiando los colores dentro de la lista](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles%20parte%202/dos.js)
+- [Cambiando tamaño de los circulos](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/bucles%20parte%202/tres.js)
