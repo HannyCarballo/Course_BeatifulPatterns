@@ -48,3 +48,4 @@
 - [Creación de pinturas con js](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/painting_01)
 - [Animación y geometría computacional](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/animacion%20y%20geometria%20computacional)
 - [Métodos de ordenación](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/m%C3%A9todos%20de%20ordenaci%C3%B3n)
+- [La codificación ISBN](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/isbn)
