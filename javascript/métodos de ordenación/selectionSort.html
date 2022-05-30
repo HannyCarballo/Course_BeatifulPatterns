@@ -1,0 +1,25 @@
+<script>
+    numeros = [5,1,4,2,8]
+    console.log("Ordenamiento incial:", numeros);
+    for (inicio=0;inicio<numeros.length;inicio++) {
+        var index_minimo = inicio
+        console.log("Round ", inicio+1);
+        if (inicio == (numeros.length-1)) {
+        } else {
+            console.log("Para esta ronda, comenzaremos a analizar desde el index número =", index_minimo);
+            for (index = inicio;index<numeros.length;index++) {
+                if (numeros[index] < numeros[index_minimo]) {
+                    index_minimo = index; 
+                }
+                if (index == (numeros.length - 1)) { 
+                    console.log("Numero más pequeño = ", numeros[index_minimo])
+                    console.log ("Index del número más pequeño =", index_minimo)
+                    var temporal = numeros[index_minimo] 
+                    numeros[index_minimo] = numeros[inicio] 
+                    numeros[inicio] = temporal 
+                    console.log("Ordenamiento al final de la ronda: ",numeros);
+                }
+            }
+        }
+    }
+</script>
