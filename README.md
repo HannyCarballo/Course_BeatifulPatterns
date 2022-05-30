@@ -49,3 +49,6 @@
 - [Animación y geometría computacional](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/animacion%20y%20geometria%20computacional)
 - [Métodos de ordenación](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/m%C3%A9todos%20de%20ordenaci%C3%B3n)
 - [La codificación ISBN](https://github.com/HannyCarballo/Course_BeautifulPatterns/tree/master/javascript/isbn)
+
+### Proyecto final
+- [Página web sobre la salud mental](https://github.com/HannyCarballo/BeautifulPatterns_FinalProject)
