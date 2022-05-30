@@ -31,3 +31,5 @@
 - [Ciclo while infinito](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/tareasCiclos/cuatro.js)
 - [Ciclo for infinito](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/tareasCiclos/cinco.js)
 - [Ciclo if infinito](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/tareasCiclos/seis.js)
+- [Funciones. Suma de dos números](https://github.com/HannyCarballo/Course_BeautifulPatterns/blob/master/javascript/funcion.js)
+- 
